@@ -32,3 +32,13 @@
 
 🎯 Objective
  - To create an interactive and insightful sales dashboard that helps stakeholders make data-driven decisions related to inventory, marketing, and product offerings in the food & beverage industry.
+
+Review - 
+<img width="1299" height="716" alt="image" src="https://github.com/user-attachments/assets/f451881d-85f2-4170-bc5a-570f2815b61d" />
+<img width="1296" height="730" alt="image" src="https://github.com/user-attachments/assets/19d22cca-f866-44de-8416-47a2b1c5f79b" />
+
+
+
+
+
+
